@@ -44,19 +44,19 @@ Hospital Operations Intelligence is an end-to-end healthcare analytics project b
 
 ### Executive Dashboard
 
-![Executive Dashboard](dashboard1.png)
+dashboard1.png
 
 ---
 
 ### Hospital Performance Dashboard
 
-![Hospital Dashboard](dashboard2.png)
+dashboard2.png
 
 ---
 
 ### Patient Analysis Dashboard
 
-![Patient Dashboard](dashboard3.png)
+dashboard3.png
 
 ---
 
